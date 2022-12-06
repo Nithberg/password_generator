@@ -1,5 +1,7 @@
 import random
-#test commit
+
+
+# test commit
 def is_valid(answer):
     yes_or_not = input(answer).lower()
     while True:
